@@ -13,7 +13,6 @@
 - Another question is, Can we have ...?
 - Is there default value? Is that mandatory?
 - Is this a mandatory value? 
-
 2. How come you can't handle this? 
 3. I was wondering how to do that?
 4. How do you add an external contracting?
@@ -24,7 +23,9 @@
 - I have a bit of a problem, but I think I can solve it myself. I just need more time
 - I think I have a little problem but I can troubleshoot by myself, I need a bit more time to solve this problem
 - I think I need to well prepared for this training
+
 ------------------------------------------------------------------------------------------------
+
 * ask for review/assign/request validate the map
 1. 
 Hi Jerry,
@@ -46,12 +47,22 @@ Thank you for your support. I remove the 2rd group.
 So, please review my mapping again.
 
 ------------------------------------------------------------------------------------------------
+
 *Confirmation
-Sorry, could you could you repeat that question? 
+- Sorry, could you could you repeat that question?
+* How do I notify my boss that a task has been complete?
+- This has been completed. Please let me know if there's anything else you'd need
+- Since I've completed this task, is there anything else you'd like me to do on this?
+- Good morning! Just wanted to let you know I finished the____
+- Good afternoon, just to update you: I've completed the ___ and have started___. Let me know if there is anything else
+
+
 ------------------------------------------------------------------------------------------------
 *Say thanks
-I appreciate everything you do for the team with so much care. Thank you so much, Dane!
+- I appreciate everything you do for the team with so much care. Thank you so much, Dane!
+
 ------------------------------------------------------------------------------------------------
+
 *Email
 Half sick day - Huy Nguyen
 Hi team, 
