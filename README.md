@@ -23,7 +23,12 @@
 - I have a bit of a problem, but I think I can solve it myself. I just need more time
 - I think I have a little problem but I can troubleshoot by myself, I need a bit more time to solve this problem
 - I think I need to well prepared for this training
-
+8. How can I help you? May I help you?
+- Yes. I was just wondering where the ______ are. Can you show me where they might be?
+- Um… I think I have everything I need. Thank you for your help!
+- If I needed some help a little later, can I count/call on you?
+- No, thank you! Right now, I think I’m fine.
+- Thanks.I can handle it myself.
 ------------------------------------------------------------------------------------------------
 
 * ask for review/assign/request validate the map
